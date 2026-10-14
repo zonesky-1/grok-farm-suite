@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.sqlite
+*.db
+.env
+accounts.txt
+accounts.json
+sso.txt
+proxies.txt
+proxy_leases.json
+node_modules/
+dist/
+build/
+*.tmp
