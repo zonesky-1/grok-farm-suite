@@ -1,0 +1,6 @@
+{
+  "worker_url": "",
+  "worker_domains": [],
+  "concurrency": 5,
+  "auto_inject_9router": true
+}

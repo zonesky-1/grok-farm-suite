@@ -1,7 +1,0 @@
-{
-  "email_worker_url": "",
-  "email_domain": "yourdomain.com",
-  "webshare_api_key": "",
-  "proxy_rotate_every_accounts": 3,
-  "default_headless": true
-}

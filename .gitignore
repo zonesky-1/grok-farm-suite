@@ -5,11 +5,6 @@ __pycache__/
 *.sqlite
 *.db
 .env
-accounts.txt
-accounts.json
-sso.txt
-proxies.txt
-proxy_leases.json
 node_modules/
 dist/
 build/
